@@ -1,0 +1,23 @@
+{
+  "name": "simple-ml-brain.js",
+  "version": "1.0.0",
+  "description": "Simple Machine Learning using Brain.js . This is a tutorial from Youtube where you can refer how one can build models using Brain.js Javascript Framework for NeuralNets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateek951/simple-ml-brain.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateek951/simple-ml-brain.js/issues"
+  },
+  "homepage": "https://github.com/prateek951/simple-ml-brain.js#readme",
+  "dependencies": {
+    "brain.js": "^1.2.6"
+  }
+}
